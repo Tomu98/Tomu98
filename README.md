@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Abel Tomás 👋😊</h1>
 <div>
-    <h3>I aspire to be a professional Backend developer one day, at the moment I'm still learning, so just bear with me...</h3>
-    <h2 align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 🫠 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </h2>
+    <p align="center">I aspire to be a professional Backend developer one day, at the moment I'm still learning, so just bear with me...</p>
+    <p align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 🫠 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </p>
 </div>
 <br><br>
 <h2 align="center">⚒️ Languages-Frameworks-Tools that I know at the moment ⚒️</h2>
