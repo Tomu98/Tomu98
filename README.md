@@ -7,7 +7,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools that I know at the moment ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,python,github,git" />
+    <img src="https://skillicons.dev/icons?i=vscode,python,github,git,sqlite,fastapi" />
 </div>
 <br>
 <h2 align="center">👾 Some stats 👾</h2>
