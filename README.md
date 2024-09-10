@@ -19,14 +19,12 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 </div>
 
-<hr>
+###
+
+<h3 align="left">About me</h3>
 
 ###
 
-<h3 align="center">About me</h3>
-
-###
-
-<p align="left">Hi, I'm Abel Tomas, I'm 25 years old and my goal is to be a professional software developer. I'm currently looking for my first work experience in Backend development, area in which I'm mainly focused. I also have some knowledge in Frontend and about Machine Learning, and I aspire to continue learning over time in all these fields.<br><br>I met this world of programming when I was a teenager, thanks to a video that I came across by chance that showed great developers in the IT world talking about how important it's to program. But for different reasons and difficulties of life, I started to study and learn about software development much later, when I could have my own computer.<br><br>Before dedicating myself to software development, I worked for several years in non-specialized roles, as a cashier in the collection of services and taxes and in an insurance office, so I was able to be active in my job. These jobs made me grow as a person and gave me valuable work experience along with transferable skills that I now want to apply in my career as a developer.<br><br>Currently I'm constantly learning and improving my skills every day. I hope to find as soon as possible my first work experience in Backend development that will allow me to grow in my professional career. And more than anything, that this first experience will allow me to get ahead, help my family and achieve my life dreams.</p>
+<p align="left">Hi, I'm Abel Tomás, I'm 25 years old and my goal is to be a professional software developer. I'm currently looking for my first work experience in Backend development, although I also have knowledge in Frontend and Machine Learning. I discovered programming in my teenage years through an inspiring video, but I started learning later, when I could have my computer.<br><br>Before getting into software development, I worked for several years in non-specialized roles, as a cashier and in an insurance office, which gave me valuable work experience and transferable skills. I discovered programming in my teens and, although I started learning later due to various difficulties, I have focused on software development. I am looking for my first professional experience in Backend development that will allow me to get ahead, help my family and with that achieve my dreams in this life.</p>
 
 ###
