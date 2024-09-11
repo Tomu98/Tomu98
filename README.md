@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I'm a Backend Developer from Salta, Argentina. 🇦🇷<br>Currently a Backend Trainee specializing in Python 🐍, seeking my first professional opportunity 🙋.</h3>
+<h3 align="center">I'm a Backend Developer from Salta, Argentina. 🇦🇷<br>Currently a Backend Trainee specializing in Python 🐍.</h3>
 
 ###
 
