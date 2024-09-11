@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I'm a Backend Developer from Salta, Argentina. 🇦🇷<br>Currently a Backend Trainee specializing in Python 🐍.</h3>
+<h3 align="center">I'm a Backend Developer from Salta, Argentina. 🇦🇷<br>Currently a Backend Trainee specializing in Python 🐍, seeking my first professional opportunity 🙋.</h3>
 
 ###
 
@@ -19,13 +19,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tomu98&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&order=1&custom_title=My%20stats%20hehe" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomu98&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=onedark&hide_border=true&order=2&custom_title=Languages%20I%20usually%20use" height="140" alt="languages graph"  />
-</div>
-
-###
-
 <h3 align="left">About me</h3>
 
 ###
@@ -34,12 +27,12 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img height="170" src="https://i.pinimg.com/originals/da/30/17/da3017be8b91445fd97f9ee10cc1abdd.gif"  />
 </div>
 
 ###
 
-<p align="left">Many thanks for visiting my profile! 😁</p>
+<h3 align="center">Many thanks for visiting my profile! 😁</h3>
 
 ###
