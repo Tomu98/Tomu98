@@ -17,39 +17,6 @@
 
 ###
 
-<h3 align="left">Skills</h3>
-
-<h4>- Languages:</h4>
-<p>
-    <img src="https://example.com/python-icon.png" alt="Python" width="24" height="24">
-    <img src="https://example.com/sql-icon.png" alt="SQL" width="24" height="24">
-    <img src="https://example.com/html-icon.png" alt="HTML" width="24" height="24">
-    <img src="https://example.com/css-icon.png" alt="CSS" width="24" height="24">
-</p>
-
-<h4>- Frameworks/Libraries:</h4>
-<p>
-    <img src="https://example.com/fastapi-icon.png" alt="FastAPI" width="24" height="24">
-    <img src="https://example.com/reflex-icon.png" alt="Reflex" width="24" height="24">
-    <img src="https://example.com/sqlalchemy-icon.png" alt="SQLAlchemy" width="24" height="24">
-    <img src="https://example.com/pandas-icon.png" alt="Pandas" width="24" height="24">
-    <img src="https://example.com/matplotlib-icon.png" alt="Matplotlib" width="24" height="24">
-    <img src="https://example.com/numpy-icon.png" alt="Numpy" width="24" height="24">
-</p>
-
-<h4>- Developer Tools;</h4>
-<p>
-    <img src="https://example.com/git-icon.png" alt="Git" width="24" height="24">
-    <img src="https://example.com/github-icon.png" alt="GitHub" width="24" height="24">
-    <img src="https://example.com/pytest-icon.png" alt="Pytest" width="24" height="24">
-    <img src="https://example.com/bash-icon.png" alt="Bash" width="24" height="24">
-    <img src="https://example.com/vscode-icon.png" alt="VSCode" width="24" height="24">
-    <img src="https://example.com/jupyter-icon.png" alt="Jupyter Notebook" width="24" height="24">
-</p>
-
-
-###
-
 <h3 align="left">About me</h3>
 
 ###
