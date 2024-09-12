@@ -15,9 +15,11 @@
   </a>
 </div>
 
+<hr>
+
 ###
 
-<h2 align="left">Skills</h2>
+<h3 align="left">Skills</h3>
 
 <table>
   <tr>
@@ -55,20 +57,24 @@
   </tr>
 </table>
 
-<h2 align="left">About me</h2>
+<hr>
+
+<h3 align="left">About me</h3>
 
 ###
 
 <p align="left">Hi, I'm Abel Tomás, I'm 25 years old and my goal is to be a professional software developer. I am currently looking for my first work experience in Backend development, although I also have interest and knowledge in Machine Learning and Data Science. I discovered programming in my teenage years through an inspiring video about great known developers, but for different reasons and difficulties in my life, I started learning later, when I could have my own computer.<br><br>Before going into software development, I worked for several years in non-specialized roles, as a cashier in utility and tax collection and in an insurance office, so I was able to be active in the workforce. These jobs made me grow as a person and gave me valuable work experience along with transferable skills that I now want to apply in my career as a developer.<br><br>Currently I am constantly learning, perfecting my knowledge every day. I hope to find as soon as possible my first work experience in Backend development that will allow me to grow in my professional career. And more than anything, that this first experience will allow me to get ahead, help my family and achieve my life dreams.</p>
 
+<hr>
+
 ###
 
-<div align="left">
+<div align="center">
   <img height="170" src="https://media.tenor.com/CiHkX95KMSsAAAAM/attack-on-titan-armin-arlert.gif"  />
 </div>
 
 ###
 
-<h3 align="left">Many thanks for visiting my profile! 😁</h3>
+<h3 align="center">Many thanks for visiting my profile! 😁</h3>
 
 ###
