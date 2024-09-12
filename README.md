@@ -23,7 +23,7 @@
 
 <table>
   <tr>
-    <td><h4 align="left">Lenguajes:</h4></td>
+    <td><h5 align="left">Languages:</h5></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
@@ -34,7 +34,7 @@
   </tr>
   
   <tr>
-    <td><h4 align="left">Frameworks/Librerías:</h4></td>
+    <td><h5 align="left">Frameworks/Libraries:</h5></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo" />
@@ -45,7 +45,7 @@
   </tr>
   
   <tr>
-    <td><h4 align="left">Herramientas de Desarrollo:</h4></td>
+    <td><h5 align="left">Developer Tools:</h5></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
