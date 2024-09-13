@@ -63,6 +63,6 @@
 
 ###
 
-<h3 align="center">Many thanks for visiting my profile! 😁</h3>
+<h3 align="center">Many thanks for visiting my profile! 😁🤍 </h3>
 
 ###
