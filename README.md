@@ -23,24 +23,24 @@
 
 <table>
   <tr>
-    <td><h5 align="left">Languages:</h5></td>
+    <td><h4 align="left">Languages:</h4></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,sqlite,html,css&theme=light&titles=true" height="40" alt="python logo" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,sqlite,html,css&theme=light&titles=true" height="50" alt="Languages stack" />
     </td>
   </tr>
   
   <tr>
-    <td><h5 align="left">Frameworks/Libraries:</h5></td>
+    <td><h4 align="left">Frameworks/Libraries:</h4></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,sqlalchemy,pandas,numpy,matplotlib&theme=light&titles=true" height="40"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,sqlalchemy,pandas,numpy,matplotlib&theme=light&titles=true" height="50" alt="Frameworks/Libraries stack" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo" />
     </td>
   </tr>
   
   <tr>
-    <td><h5 align="left">Developer Tools:</h5></td>
+    <td><h4 align="left">Developer Tools:</h4></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,bash,vscode,jupyter&theme=light&titles=true" height="40"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,bash,vscode,jupyter&theme=light&titles=true" height="50" alt="Developer Tools stack" />
     </td>
   </tr>
 </table>
