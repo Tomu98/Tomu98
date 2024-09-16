@@ -40,7 +40,7 @@
   <tr>
     <td><h4 align="left">Developer Tools:</h4></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,bash,vscode,jupyter&theme=light&titles=true" height="50" alt="Developer Tools stack" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,bash,vscode,jupyter,anaconda&theme=light&titles=true" height="50" alt="Developer Tools stack" />
     </td>
   </tr>
 </table>
