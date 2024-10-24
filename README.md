@@ -1,49 +1,63 @@
 <h1 align="center">Hi there, I'm Abel Tomás 👋😊</h1>
 
-###
+<!-- BANNER HERE -->
 
 <h3 align="center">I'm a Backend Developer from Salta, Argentina. 🇦🇷</h3>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/abel-tomas-romero/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+<div id="Social Badges" align="center">
+  <a href="https://www.linkedin.com/in/abel-tomas-romero/">
+    <img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" height="40">
   </a>
-  <a href="mailto:abeltomasr98@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <a href="mailto:abeltomasr98@gmail.com">
+    <img alt="Gmail Logo" src="https://img.shields.io/badge/Gmail-orangered?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" height="40">
   </a>
+  <!--  
+  <a href="#">
+    <img alt="Portfolio Badge" src="https://img.shields.io/badge/Portfolio-dimgray?style=for-the-badge&logo=astro&logoColor=white&logoSize=auto" height="40">
+  </a>
+  -->
 </div>
 
-<hr>
+<br><br>
 
-###
 
-<h3 align="left">Skills</h3>
+<h2 align="center">Skills</h2>
 
 <table>
   <tr>
-    <td><h4 align="left">Languages:</h4></td>
+    <td><h4 align="center">Languages:</h4></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,sqlite,html,css&theme=light&titles=true" height="50" alt="Languages stack" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="33" alt="Python" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="33" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="33" alt="SQLite" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="33" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="33" alt="CSS3" />
     </td>
   </tr>
   
   <tr>
-    <td><h4 align="left">Frameworks/Libraries:</h4></td>
+    <td><h4 align="center">Frameworks/Libraries:</h4></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,sqlalchemy,pandas,numpy,matplotlib&theme=light&titles=true" height="50" alt="Frameworks/Libraries stack" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo" />
+      <img alt="FastAPI Badge" src="https://img.shields.io/badge/Fastapi-lightseagreen?style=for-the-badge&logo=fastapi&logoColor=white&logoSize=auto" height="33"/>
+      <img src="https://img.shields.io/badge/SQLAlchemy-3E3E3E?style=for-the-badge&logo=sqlalchemy&logoColor=white" height="33" alt="SQLAlchemy" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="33" alt="Pandas" />
+      <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="33" alt="Numpy" />
+      <img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white" height="33" alt="Matplotlib" />
+      <img src="https://img.shields.io/badge/Pytest-343A40?style=for-the-badge&logo=pytest&logoColor=white" height="33" alt="pytest" />
     </td>
   </tr>
   
   <tr>
-    <td><h4 align="left">Developer Tools:</h4></td>
+    <td><h4 align="center">Developer Tools:</h4></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,bash&theme=light&titles=true" height="50" alt="Developer Tools stack" />
+      <img alt="Git Badge" src="https://img.shields.io/badge/Git-tomato?style=for-the-badge&logo=git&logoColor=white&logoSize=auto" height="33"/>
+      <img alt="GitHub Badge" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&logoSize=auto" height="33"/>
+      <img alt="Bash Badge" src="https://img.shields.io/badge/Bash-dimgray?style=for-the-badge&logo=gnu-bash&logoColor=white&logoSize=auto" height="33"/>
     </td>
   </tr>
 </table>
+
+
 
 <hr>
 
