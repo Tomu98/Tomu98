@@ -28,43 +28,43 @@
   <tr>
     <td><h4 align="center">Languages:</h4></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"/>
-      <img width="10"/>
-      <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"/>
-      <img width="10"/>
-      <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"/>
-      <img width="10"/>
-      <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"/>
-      <img width="10"/>
-      <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"/>
+      <img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo"/>
+      <img width="5"/>
+      <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="postgresql logo"/>
+      <img width="5"/>
+      <img src="https://skillicons.dev/icons?i=sqlite" height="48" alt="sqlite logo"/>
+      <img width="5"/>
+      <img src="https://skillicons.dev/icons?i=html" height="48" alt="html5 logo"/>
+      <img width="5"/>
+      <img src="https://skillicons.dev/icons?i=css" height="48" alt="css3 logo"/>
     </td>
   </tr>
   
   <tr>
     <td><h4 align="center">Frameworks/Libraries:</h4></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
-      <img width="10"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="60" alt="sqlalchemy logo"/>
-      <img width="10"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="60" alt="pytest logo"/>
-      <img width="10"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"/>
-      <img width="10"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"/>
-      <img width="10"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="60" alt="matplotlib logo"/>
+      <img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="fastapi logo"  />
+      <img width="5"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="48" alt="sqlalchemy logo"/>
+      <img width="5"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="48" alt="pytest logo"/>
+      <img width="5"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas logo"/>
+      <img width="5"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy logo"/>
+      <img width="5"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="48" alt="matplotlib logo"/>
     </td>
   </tr>
   
   <tr>
     <td><h4 align="center">Developer Tools:</h4></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"/>
-      <img width="10"/>
-      <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"/>
-      <img width="10"/>
-      <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"/>
+      <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo"/>
+      <img width="5"/>
+      <img src="https://skillicons.dev/icons?i=github" height="48" alt="github logo"/>
+      <img width="5"/>
+      <img src="https://skillicons.dev/icons?i=bash" height="48" alt="bash logo"/>
     </td>
   </tr>
 </table>
