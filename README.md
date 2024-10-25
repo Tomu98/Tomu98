@@ -28,31 +28,43 @@
   <tr>
     <td><h4 align="center">Languages:</h4></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="60" alt="Python Icon"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="60" alt="PostgreSQL Icon"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="60" alt="SQLite Icon"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="60" alt="HTML Icon"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="60" alt="CSS3 Icon"/>
+      <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"/>
+      <img width="10"/>
+      <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"/>
+      <img width="10"/>
+      <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"/>
+      <img width="10"/>
+      <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"/>
+      <img width="10"/>
+      <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"/>
     </td>
   </tr>
   
   <tr>
     <td><h4 align="center">Frameworks/Libraries:</h4></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="60" alt="FastAPI Icon"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" height="60" alt="SQLAlchemy Icon"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" height="60" alt="Pytest Icon"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="60" alt="Pandas Icon"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="60" alt="Numpy Icon"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="60" alt="Matplotlib Icon"/>
+      <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
+      <img width="10"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="60" alt="sqlalchemy logo"/>
+      <img width="10"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="60" alt="pytest logo"/>
+      <img width="10"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"/>
+      <img width="10"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"/>
+      <img width="10"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="60" alt="matplotlib logo"/>
     </td>
   </tr>
   
   <tr>
     <td><h4 align="center">Developer Tools:</h4></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="60" alt="Git Icon"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="60" alt="Bash Icon"/> 
+      <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"/>
+      <img width="10"/>
+      <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"/>
+      <img width="10"/>
+      <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"/>
     </td>
   </tr>
 </table>
