@@ -119,7 +119,7 @@
 
 <!-- END -->
 <div align="center">
-  <img height="250" src="https://64.media.tumblr.com/0a846b579e5039fdcf3e28838100392a/tumblr_ptxcbfg1Ah1v6bs4yo9_r1_540.gif"/>
+  <img height="auto" src="https://64.media.tumblr.com/0a846b579e5039fdcf3e28838100392a/tumblr_ptxcbfg1Ah1v6bs4yo9_r1_540.gif"/>
 </div>
 
 <h3 align="center">
