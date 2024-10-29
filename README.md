@@ -106,7 +106,7 @@
 
 <div id="Social Badges" align="center">
   <a href="https://www.instagram.com/abeltomas98/">
-    <img alt="Instagram Badge" src="https://img.shields.io/badge/@abeltomas-mediumpurple?style=for-the-badge&logo=instagram&logoColor=white&logoSize=auto" height="33">
+    <img alt="Instagram Badge" src="https://img.shields.io/badge/@abeltomas98-mediumpurple?style=for-the-badge&logo=instagram&logoColor=white&logoSize=auto" height="33">
   </a>
   <a href="https://x.com/Tomu98_">
     <img alt="X Badge" src="https://img.shields.io/badge/@Tomu98__-black?style=for-the-badge&logo=x&logoColor=white&logoSize=auto" height="33">
