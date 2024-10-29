@@ -1,5 +1,6 @@
 <!-- BANNER HERE -->
 
+<!-- HEADER -->
 <h1 align="center">
   Hi there, I'm Abel Tomás 
   <span>
@@ -29,6 +30,7 @@
 <br><br>
 
 
+<!-- Projects Section -->
 <h2 align="center">My projects</h2>
 <div align="center">
   <a href="https://github.com/Tomu98/Expense-Tracker-API">
@@ -95,6 +97,7 @@
 <br><br>
 
 
+<!-- AboutMe section-->
 <h2 align="center">About Me</h2>
 
 <p align="left">
@@ -103,10 +106,10 @@
 
 <div id="Social Badges" align="center">
   <a href="https://www.instagram.com/abeltomas98/">
-    <img alt="Instagram Badge" src="https://img.shields.io/badge/@abeltomas-mediumpurple?style=for-the-badge&logo=instagram&logoColor=white&logoSize=auto" height="40">
+    <img alt="Instagram Badge" src="https://img.shields.io/badge/@abeltomas-mediumpurple?style=for-the-badge&logo=instagram&logoColor=white&logoSize=auto" height="33">
   </a>
   <a href="https://x.com/Tomu98_">
-    <img alt="X Badge" src="https://img.shields.io/badge/@Tomu98_-black?style=for-the-badge&logo=x&logoColor=white&logoSize=auto" height="40">
+    <img alt="X Badge" src="https://img.shields.io/badge/@Tomu98_-black?style=for-the-badge&logo=x&logoColor=white&logoSize=auto" height="33">
   </a>
 </div>
 
@@ -114,10 +117,10 @@
 <br><br>
 
 
+<!-- END -->
 <div align="center">
-  <img height="170" src="https://media.tenor.com/CiHkX95KMSsAAAAM/attack-on-titan-armin-arlert.gif"  />
+  <img height="250" src="https://64.media.tumblr.com/0a846b579e5039fdcf3e28838100392a/tumblr_ptxcbfg1Ah1v6bs4yo9_r1_540.gif"/>
 </div>
-
 
 <h3 align="center">
   Many thanks for visiting my profile! 
