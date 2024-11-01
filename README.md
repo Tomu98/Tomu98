@@ -11,14 +11,13 @@
 
 <h3 align="center">I'm a Backend Developer from Salta, Argentina. 🇦🇷</h3>
 
-
 <!-- Social media -->
 <div id="Contact Badges" align="center">
   <a href="https://www.linkedin.com/in/abel-tomas-romero/">
-    <img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-steelblue?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" height="40">
+    <img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-steelblue?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" height="33">
   </a>
   <a href="mailto:abeltomasr98@gmail.com">
-    <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-orangered?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" height="40">
+    <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-orangered?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" height="33">
   </a>
   <!--  
   <a href="#">
