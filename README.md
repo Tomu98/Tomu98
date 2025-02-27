@@ -101,7 +101,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="left">
-  I'm a Backend Developer looking for my first professional work experience. Although my main focus is Backend, I also have a strong interest in data management and processing, as well as Machine Learning, that's why I love Python hehe. I discovered programming in my teenage years through an inspiring video about great known developers, but for different reasons and difficulties in my life, I started learning later, when I could have my own computer.
+  I'm a Backend Developer looking for my first professional work experience. I discovered programming in my teenage years through an inspiring video about great known developers, but for different reasons and difficulties in my life, I started learning later, when I could have my own computer.
   <br><br>
   Before going into software development, I worked for several years in non-specialized roles, as a cashier in utility and tax collection and in an insurance office, so I was able to be active in the workforce. These jobs made me grow as a person and gave me valuable work experience along with transferable skills that I now want to apply in my career as a developer.
   <br><br>
