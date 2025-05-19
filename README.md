@@ -89,6 +89,9 @@
       <img src="https://skillicons.dev/icons?i=github" height="48" alt="github logo"/>
       <img width="5"/>
       <img src="https://skillicons.dev/icons?i=bash" height="48" alt="bash logo"/>
+      <img width="5"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="pandas logo"/>
+      <img width="5"/>
     </td>
   </tr>
 </table>
