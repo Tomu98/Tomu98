@@ -48,53 +48,38 @@
 
 <!-- Skills section -->
 <h2 align="center">Skills</h2>
-<table align="center">
-  <tr>
-    <td><h4 align="center">Languages:</h4></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo"/>
-      <img width="5"/>
-      <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="postgresql logo"/>
-      <img width="5"/>
-      <img src="https://skillicons.dev/icons?i=sqlite" height="48" alt="sqlite logo"/>
-      <img width="5"/>
-      <img src="https://skillicons.dev/icons?i=html" height="48" alt="html5 logo"/>
-      <img width="5"/>
-      <img src="https://skillicons.dev/icons?i=css" height="48" alt="css3 logo"/>
-    </td>
-  </tr>
-  
-  <tr>
-    <td><h4 align="center">Frameworks/Libraries:</h4></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="fastapi logo"  />
-      <img width="5"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="48" alt="sqlalchemy logo"/>
-      <img width="5"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="48" alt="pytest logo"/>
-      <img width="5"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas logo"/>
-      <img width="5"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy logo"/>
-      <img width="5"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="48" alt="matplotlib logo"/>
-    </td>
-  </tr>
-  
-  <tr>
-    <td><h4 align="center">Developer Tools:</h4></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo"/>
-      <img width="5"/>
-      <img src="https://skillicons.dev/icons?i=github" height="48" alt="github logo"/>
-      <img width="5"/>
-      <img src="https://skillicons.dev/icons?i=bash" height="48" alt="bash logo"/>
-      <img width="5"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="pandas logo"/>
-      <img width="5"/>
-    </td>
-  </tr>
-</table>
+
+<!-- Languages -->
+<h4 align="center">Languages:</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="48"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="48"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html" height="48"/>
+  <img src="https://skillicons.dev/icons?i=css" height="48"/>
+</p>
+
+<!-- Frameworks/Libraries -->
+<h4 align="center">Frameworks/Libraries:</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="48"/>
+</p>
+
+<!-- Developer Tools -->
+<h4 align="center">Developer Tools:</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="48"/>
+  <img src="https://skillicons.dev/icons?i=github" height="48"/>
+  <img src="https://skillicons.dev/icons?i=bash" height="48"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="48"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48"/>
+</p>
 
 
 <br><br>
@@ -104,11 +89,11 @@
 <h2 align="center">About Me</h2>
 
 <p align="left">
-  I'm a Backend Developer looking for my first professional work experience. I discovered programming in my teenage years through an inspiring video about great known developers, but for different reasons and difficulties in my life, I started learning later, when I could have my own computer.
+  I'm a backend developer, working mainly with Python and its frameworks and libraries. I develop APIs with FastAPI, manage relational SQL databases (PostgreSQL and SQLite) and use Git as version control system, among other tools and technologies of the backend environment.
   <br><br>
-  Before going into software development, I worked for several years in non-specialized roles, as a cashier in utility and tax collection and in an insurance office, so I was able to be active in the workforce. These jobs made me grow as a person and gave me valuable work experience along with transferable skills that I now want to apply in my career as a developer.
+  Before dedicating myself to software development, I worked as a cashier in the collection of services and taxes and in an insurance office. These experiences helped me to develop skills in customer service and administrative management, as well as a strong responsibility, teamwork and problem solving skills on a daily basis.
   <br><br>
-  Currently I'm constantly learning, perfecting my knowledge every day. I hope to find as soon as possible my first work experience in Backend development that'll allow me to grow in my professional career. And more than anything, that this first experience will allow me to get ahead, help my family and achieve my life dreams.
+  I am currently pursuing a University Degree in Programming at Universidad Tecnológica Nacional (UTN), Argentina, reinforcing my academic training in parallel with my self-taught learning. I am looking for my first professional experience in software development, to apply my knowledge, grow within a team and continue building my career as a software developer.
 </p>
 
 <div id="Social Badges" align="center">
