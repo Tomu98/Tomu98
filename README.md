@@ -47,7 +47,7 @@
 
 
 <!-- Skills section -->
-<h2 align="center">Skills</h2>
+<h2 align="center">My skills</h2>
 
 <!-- Languages -->
 <h4 align="center">Languages:</h4>
@@ -86,7 +86,7 @@
 
 
 <!-- AboutMe section-->
-<h2 align="center">About Me</h2>
+<h2 align="center">A little about me</h2>
 
 <p align="left">
   I'm a backend developer, working mainly with Python and its frameworks and libraries. I develop APIs with FastAPI, manage relational SQL databases (PostgreSQL and SQLite) and use Git as version control system, among other tools and technologies of the backend environment.
@@ -110,8 +110,7 @@
 </div>
 -->
 
-<br><br>
-
+<br>
 
 <!-- END -->
 <div align="center">
