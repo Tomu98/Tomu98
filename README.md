@@ -75,8 +75,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git" height="48"/>
   <img src="https://skillicons.dev/icons?i=github" height="48"/>
-  <img src="https://skillicons.dev/icons?i=bash" height="48"/>
   <img src="https://skillicons.dev/icons?i=linux" height="48"/>
+  <img src="https://skillicons.dev/icons?i=bash" height="48"/>
   <img src="https://skillicons.dev/icons?i=docker" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48"/>
 </p>
