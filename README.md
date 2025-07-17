@@ -93,7 +93,7 @@
   <br><br>
   Before dedicating myself to software development, I worked as a cashier in the collection of services and taxes and in an insurance office. These experiences helped me to develop skills in customer service and administrative management, as well as a strong responsibility, teamwork and problem solving skills on a daily basis.
   <br><br>
-  I am currently pursuing a University Degree in Programming at Universidad Tecnológica Nacional (UTN), Argentina, reinforcing my academic training in parallel with my self-taught learning. I am looking for my first professional experience in software development, to apply my knowledge, grow within a team and continue building my career as a software developer.
+  I'm currently pursuing a University Degree in Programming at Universidad Tecnológica Nacional (UTN), Argentina, reinforcing my academic training in parallel with my self-taught learning. I'm looking for my first professional experience in software development, to apply my knowledge, grow within a team and continue building my career as a software developer.
 </p>
 
 <br>
