@@ -96,6 +96,10 @@
   I am currently pursuing a University Degree in Programming at Universidad Tecnológica Nacional (UTN), Argentina, reinforcing my academic training in parallel with my self-taught learning. I am looking for my first professional experience in software development, to apply my knowledge, grow within a team and continue building my career as a software developer.
 </p>
 
+<br>
+
+<!--
+<h3 align="center">Some of my social media: </h3>
 <div id="Social Badges" align="center">
   <a href="https://www.instagram.com/abeltomas98/">
     <img alt="Instagram Badge" src="https://img.shields.io/badge/@abeltomas98-mediumpurple?style=for-the-badge&logo=instagram&logoColor=white&logoSize=auto" height="33">
@@ -104,7 +108,7 @@
     <img alt="X Badge" src="https://img.shields.io/badge/@Tomu98__-black?style=for-the-badge&logo=x&logoColor=white&logoSize=auto" height="33">
   </a>
 </div>
-
+-->
 
 <br><br>
 
