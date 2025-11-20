@@ -57,9 +57,9 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="48"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="48"/>
   <img src="https://skillicons.dev/icons?i=sqlite" height="48"/>
-  <img src="https://skillicons.dev/icons?i=r" height="48"/>
   <img src="https://skillicons.dev/icons?i=html" height="48"/>
   <img src="https://skillicons.dev/icons?i=css" height="48"/>
+  <img src="https://skillicons.dev/icons?i=r" height="48"/>
 </p>
 
 <!-- Frameworks/Libraries -->
