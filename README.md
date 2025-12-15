@@ -1,4 +1,4 @@
-<!-- BANNER HERE -->
+<!-- BANNER -->
 <p align="center">
   <img src="github-header-banner-at98.png" alt="Banner" width="100%" />
 </p>
@@ -18,8 +18,6 @@
   </a>
 </div>
 
-
-
 <br><br> -->
 
 
@@ -29,36 +27,36 @@
 <!-- Languages -->
 <h4 align="center">Languages:</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="48"/>
-  <img src="https://skillicons.dev/icons?i=java" height="48"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="48"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="48"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" height="48"/>
-  <img src="https://skillicons.dev/icons?i=html" height="48"/>
-  <img src="https://skillicons.dev/icons?i=css" height="48"/>
-  <img src="https://skillicons.dev/icons?i=r" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=light" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=light" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=light" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=light" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite&theme=light" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html&theme=light" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=css&theme=light" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=r&theme=light" height="48"/>
 </p>
 
 <!-- Frameworks/Libraries -->
 <h4 align="center">Frameworks/Libraries:</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=light" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy&theme=light" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytest&theme=light" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=light" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=light" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib&theme=light" height="48"/>
 </p>
 
 <!-- Developer Tools -->
 <h4 align="center">Developer Tools:</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="48"/>
-  <img src="https://skillicons.dev/icons?i=github" height="48"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="48"/>
-  <img src="https://skillicons.dev/icons?i=bash" height="48"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=light" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=light" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=light" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&theme=light" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=light" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jira&theme=light" height="48"/>
 </p>
 
 
@@ -94,7 +92,7 @@
   </a>
 </div>
 
-<br><br>
+<br>
 
 <!-- END -->
 <div align="center">
