@@ -74,6 +74,8 @@
   Before dedicating myself to software development, I worked as a cashier in the collection of services and taxes and in an insurance office. These experiences helped me to develop skills in customer service and administrative management, as well as a strong responsibility, teamwork and problem solving skills on a daily basis.
   <br><br>
   I'm currently pursuing a University Degree in Programming at Universidad Tecnológica Nacional (UTN), Argentina, reinforcing my academic training in parallel with my self-taught learning. I'm looking for my first professional experience in software development, to apply my knowledge, grow within a team and continue building my career as a software developer.
+  <br><br>
+  Many thanks for visiting my profile! 😊🤍 
 </p>
 
 <br>
@@ -90,40 +92,12 @@
   <a href="mailto:abeltomasr98@gmail.com">
     <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-orangered?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" height="33">
   </a>
-  <!--  
-  <a href="#">
-    <img alt="Portfolio Badge" src="https://img.shields.io/badge/Portfolio-dimgray?style=for-the-badge&logo=astro&logoColor=white&logoSize=auto" height="40">
-  </a>
-  -->
-
 </div>
-
-<!--
-<h3 align="center">Some of my social media: </h3>
-<div id="Social Badges" align="center">
-  <a href="https://www.instagram.com/abeltomas98/">
-    <img alt="Instagram Badge" src="https://img.shields.io/badge/@abeltomas98-mediumpurple?style=for-the-badge&logo=instagram&logoColor=white&logoSize=auto" height="33">
-  </a>
-  <a href="https://x.com/Tomu98_">
-    <img alt="X Badge" src="https://img.shields.io/badge/@Tomu98__-black?style=for-the-badge&logo=x&logoColor=white&logoSize=auto" height="33">
-  </a>
-</div>
--->
 
 <br><br>
 
 <!-- END -->
 <div align="center">
   <img height="auto" src="https://64.media.tumblr.com/0a846b579e5039fdcf3e28838100392a/tumblr_ptxcbfg1Ah1v6bs4yo9_r1_540.gif"/>
-</div>
-
-<br>
-
-<h3 align="center">Many thanks for visiting my profile!</h3>
-<div align="center">
-  <span>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="33" height="33"/>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="White Heart" width="33" height="33"/>
-</span>
 </div>
 
