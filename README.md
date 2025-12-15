@@ -3,21 +3,6 @@
   <img src="github-header-banner.png" alt="Banner" width="100%" />
 </p>
 
-<!-- Social media -->
-<div id="Contact Badges" align="center">
-  <a href="https://www.linkedin.com/in/abel-tomas-romero/">
-    <img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-steelblue?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" height="33">
-  </a>
-  <a href="mailto:abeltomasr98@gmail.com">
-    <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-orangered?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" height="33">
-  </a>
-  <!--  
-  <a href="#">
-    <img alt="Portfolio Badge" src="https://img.shields.io/badge/Portfolio-dimgray?style=for-the-badge&logo=astro&logoColor=white&logoSize=auto" height="40">
-  </a>
-  -->
-</div>
-
 
 <br><br>
 
@@ -93,6 +78,26 @@
 
 <br>
 
+<!-- Social media -->
+
+<h4 align="center">
+  Connect with me:
+</h4>
+<div id="Contact Badges" align="center">
+  <a href="https://www.linkedin.com/in/abel-tomas-romero/">
+    <img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-steelblue?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" height="33">
+  </a>
+  <a href="mailto:abeltomasr98@gmail.com">
+    <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-orangered?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" height="33">
+  </a>
+  <!--  
+  <a href="#">
+    <img alt="Portfolio Badge" src="https://img.shields.io/badge/Portfolio-dimgray?style=for-the-badge&logo=astro&logoColor=white&logoSize=auto" height="40">
+  </a>
+  -->
+
+</div>
+
 <!--
 <h3 align="center">Some of my social media: </h3>
 <div id="Social Badges" align="center">
@@ -105,12 +110,14 @@
 </div>
 -->
 
-<br>
+<br><br>
 
 <!-- END -->
 <div align="center">
   <img height="auto" src="https://64.media.tumblr.com/0a846b579e5039fdcf3e28838100392a/tumblr_ptxcbfg1Ah1v6bs4yo9_r1_540.gif"/>
 </div>
+
+<br>
 
 <h3 align="center">Many thanks for visiting my profile!</h3>
 <div align="center">
