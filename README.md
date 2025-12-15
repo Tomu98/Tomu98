@@ -4,7 +4,7 @@
 </p>
 
 
-<br><br>
+<br>
 
 
 <!-- Projects Section
@@ -62,7 +62,7 @@
 </p>
 
 
-<br><br>
+<br>
 
 
 <!-- AboutMe section-->
