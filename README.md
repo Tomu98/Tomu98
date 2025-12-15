@@ -7,21 +7,21 @@
 <br>
 
 
-<!-- Projects Section -->
+<!-- Projects Section
 <h2 align="center">My projects</h2>
 <div align="center">
   <a href="https://github.com/Tomu98/Expense-Tracker-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomu98&repo=Expense-Tracker-API&show_icons=true&theme=default" alt="Expense Tracker API repo"/>
-  </a>
-  <a href="https://github.com/Tomu98/GitHub-User-Activity">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomu98&repo=GitHub-User-Activity&show_icons=true&theme=default" alt="GitHub User Activity repo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomu98&repo=Expense-Tracker-API&show_icons=true&theme=nord" alt="Expense Tracker API repo"/>
   </a>
   <a href="https://github.com/Tomu98/Expense-Tracker-CLI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomu98&repo=Expense-Tracker-CLI&show_icons=true&theme=default" alt="Expense Tracker CLI repo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomu98&repo=Expense-Tracker-CLI&show_icons=true&theme=nord" alt="Expense Tracker CLI repo"/>
+  </a>
+  <a href="https://github.com/Tomu98/GitHub-User-Activity">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomu98&repo=GitHub-User-Activity&show_icons=true&theme=nord" alt="GitHub User Activity repo"/>
   </a>
 </div>
 
-<br><br>
+<br><br> -->
 
 
 <!-- Skills section -->
