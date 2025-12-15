@@ -1,15 +1,7 @@
 <!-- BANNER HERE -->
-
-<!-- HEADER -->
-<h1 align="center">
-  Hi there, I'm Abel Tomás 
-  <span>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="33" height="33"/>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="33" height="33"/>
-  </span>
-</h1>
-
-<h3 align="center">I'm a Backend Developer from Salta, Argentina. 🇦🇷</h3>
+<p align="center">
+  <img src="github-header-banner.png" alt="Banner" width="100%" />
+</p>
 
 <!-- Social media -->
 <div id="Contact Badges" align="center">
