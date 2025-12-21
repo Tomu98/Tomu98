@@ -36,7 +36,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=light" height="48"/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite&theme=light" height="48"/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html&theme=light" height="48"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=css&theme=light" height="48"/>
+  <!--<img src="https://go-skill-icons.vercel.app/api/icons?i=css&theme=light" height="48"/> -->
   <img src="https://go-skill-icons.vercel.app/api/icons?i=r&theme=light" height="48"/>
 </p>
 
